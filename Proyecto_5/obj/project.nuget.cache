@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttaNg+v7KDJjjC64IOnGNcY+kwMUHemEpXgTmxWpfd6Si9kvzkhRnZh6Qd7F4uJbCnWZwai7hyDQ+p0dO1fTWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex-\\Documents\\Visual Studio 2019\\Proyectos\\Proyecto_5\\Proyecto_5\\Proyecto_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\bin\Debug\netcoreapp3.1\Proyecto_5.exe
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\bin\Debug\netcoreapp3.1\Proyecto_5.deps.json
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\bin\Debug\netcoreapp3.1\Proyecto_5.runtimeconfig.json
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\bin\Debug\netcoreapp3.1\Proyecto_5.runtimeconfig.dev.json
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\bin\Debug\netcoreapp3.1\Proyecto_5.dll
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\bin\Debug\netcoreapp3.1\Proyecto_5.pdb
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.csprojAssemblyReference.cache
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.AssemblyInfoInputs.cache
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.AssemblyInfo.cs
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.dll
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.pdb
+C:\Users\alex-\Documents\Visual Studio 2019\Proyectos\Proyecto_5\Proyecto_5\obj\Debug\netcoreapp3.1\Proyecto_5.genruntimeconfig.cache

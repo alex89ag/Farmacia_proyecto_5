@@ -1,0 +1,7 @@
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\bin\Debug\Proyecto_5.exe.config
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\bin\Debug\Proyecto_5.exe
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\bin\Debug\Proyecto_5.pdb
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\obj\Debug\Proyecto_5.csprojAssemblyReference.cache
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\obj\Debug\Proyecto_5.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\obj\Debug\Proyecto_5.exe
+C:\Users\alex-\Documents\SharpDevelop Projects\Proyecto_5\Proyecto_5\obj\Debug\Proyecto_5.pdb
